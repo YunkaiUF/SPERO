@@ -17,6 +17,9 @@ The unmasked AES code could be found in tiny-aes open source program[3].
 # Masked AES code
 The masked AES code could be found in CENSUS open source program[4].
 
+# SPERO dataset
+Please download the SPERO dataset at releases(https://github.com/YunkaiUF/SPERO/releases/tag/SPERO). You can zip the file, and open the SPERO.h5 file with the python code in h5_read_python.txt.
+
 # References
 [1] A. Stern, K. Yang, J. Vosatka, A. Duncan, J. Park, D. Forte, and M. Tehranipoor, “Rasc: Enabling remote access to side-channels for mission critical systems,” GOMACTech, 2019.
 
