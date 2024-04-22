@@ -12,14 +12,17 @@ In our experiments, we gather EM and power traces at the same time when the atta
 RASC (short for, remote access to a side-channel platform), an external miniature monitor, that performs side-channel analysis for offensive (e.g., secret extraction) and defensive purposes (e.g., disassembly and malware detection) on a target chip. The first version of RASC was introduced by Stern et al. in 2019[1], and the upgrade version (RASCv2) was first presented by Bai et al. in 2022[2]. For generating SPERO dataset, we use the third version of RASC (RASCv3) and the comparison with RASCv2 and traditional side-channel instruments, such as oscilloscope is included in our paper. 
 
 # Unmasked AES code
-The unmasked AES code could be found in [3].
+The unmasked AES code could be found in tiny-aes open source program[3].
 
 # Masked AES code
-The masked AES code could be found in [4].
+The masked AES code could be found in CENSUS open source program[4].
 
 # References
 [1] A. Stern, K. Yang, J. Vosatka, A. Duncan, J. Park, D. Forte, and M. Tehranipoor, “Rasc: Enabling remote access to side-channels for mission critical systems,” GOMACTech, 2019.
+
 [2] Y. Bai, A. Stern, J. Park, M. Tehranipoor, and D. Forte, “Rascv2: Enabling remote access to side-channels for mission critical and iot systems,” ACM Transactions on Design Automation of Electronic Systems
 (TODAES), vol. 27, no. 6, pp. 1–25, 2022.
+
 [3] “tinyaes,” https://github.com/kokke/tiny-AES-c
+
 [4] “CENSUS,” https://github.com/CENSUS/masked aes-c/tree/main
