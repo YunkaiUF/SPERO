@@ -1,5 +1,5 @@
 # SPERO
-SPERO(Simultaneous Power/EM Side-channel RASC and oscilloscope dataset) is a side-channel dataset follows the format and structure of the popular side-channel attack dataset called ASCAD. As shown in Figure, 
+SPERO(Simultaneous Power/EM Side-channel RASC and oscilloscope dataset) is a side-channel dataset follows the format and structure of the popular side-channel attack dataset called ASCAD. The structure of SPERO is shown below, 
 
 
 ![dataset (3)](https://github.com/YunkaiUF/SPERO/assets/126429160/5d8b6b96-b11d-4ad4-a195-d5ceea74d36e)
